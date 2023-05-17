@@ -21,6 +21,5 @@ public class NameModel {
 	
 	public List getNames() {
 		return names;
-	}
-	
+	}	
 }

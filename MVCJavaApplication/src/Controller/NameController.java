@@ -12,8 +12,6 @@ public class NameController {
         this.view = view;
     }
 	
-   
-
 	public void addName(String name) {
         model.addName(name);
         view.displayMessage("Name added: " + name);
